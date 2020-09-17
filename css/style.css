@@ -5,11 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
+
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
@@ -135,6 +131,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
   color: white;
+  background-color: coral;
+
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -1840,4 +1838,3 @@ form label {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
